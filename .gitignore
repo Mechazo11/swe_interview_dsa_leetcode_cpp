@@ -45,3 +45,12 @@ vcpkg_installed/
 # OS-specific
 .DS_Store
 Thumbs.db
+
+# Exceptions for specific folders - track only .cpp files
+# First ignore everything in these folders
+LEETCODE_PRACTICE/*
+BASIC_OOP/*
+
+# Then explicitly track only .cpp files
+!LEETCODE_PRACTICE/*.cpp
+!BASIC_OOP/*.cpp

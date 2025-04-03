@@ -34,11 +34,11 @@ Some of the pdf copies of books shared in this repo is publicly available. If yo
 
 ## TODOs
 
-[ ] More details on how to use the `RESOURCES.md` document file
-[ ] Instructions on 
-[ ] How my style of C++ leetcode varies from actual leetcode interface
-[ ] Contribution guide
-[ ] Clean up the `BASIC_CPP` directory
-[ ] Go through and clean / finish up the problems in `LEETCODE_PRACTICE`
-[ ] Mark `LeetCode 150` problems along with 
-[ ] Publish repo in LinkedIn to invite contributors from worldwide
+- [ ] More details on how to use the `RESOURCES.md` document file
+- [ ] Instructions on 
+- [ ] How my style of C++ leetcode varies from actual leetcode interface
+- [ ] Contribution guide
+- [ ] Clean up the `BASIC_CPP` directory
+- [ ] Go through and clean / finish up the problems in `LEETCODE_PRACTICE`
+- [ ] Mark `LeetCode 150` problems along with 
+- [ ] Publish repo in LinkedIn to invite contributors from worldwide
